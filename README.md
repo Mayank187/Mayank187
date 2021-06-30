@@ -5,7 +5,8 @@ Data science enthusiast and Front end developer by proffesion.
 
 - 🔭 I’m currently working on some end to end data science project 
 - 📫 How to reach me: Mayankkhandelwal187@gmail.com / +91-9840335468
-|<!--
+
+<!--
 **Mayank187/Mayank187** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
