@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am Mayank Khandelwal
 
-Data science enthusiast and Front end developer by proffesion.
+Data science enthusiast and Front end developer by profession.
 
 - 🔭 I’m currently working on some end to end data science project 
 - 📫 How to reach me: Mayankkhandelwal187@gmail.com / +91-9840335468
