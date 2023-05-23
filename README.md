@@ -1,23 +1,15 @@
+![](https://komarev.com/ghpvc/?username=mayank187)
+
 ### Hi there 👋
-I am Mayank Khandelwal
+I am Mayank Khandelwal.
 
 ## 🔧 Technologies & Tools
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=ff69b4)
 ![Visual Studio](https://img.shields.io/badge/IDE-Visual%20Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=ff69b4)
 ![PyCharm](https://img.shields.io/badge/IDE-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=ff69b4)
-![Machine Learning](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=ff69b4)
-![Deep Learning](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=ff69b4)
-![Computer Vision](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=ff69b4)
 
 
-
-
-## Connect With Me
-<!-- Contacts -->
-
-Data science enthusiast.
-
-![](https://komarev.com/ghpvc/?username=mayank187)
+## About Me
 
 - 💼 Machine Learning Engineer at [Camcom](http://camcom.ai/)
 - 📈 Built multiple projects and notebooks around machine learning and deep learning.
