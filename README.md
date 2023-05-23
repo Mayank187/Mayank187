@@ -1,9 +1,8 @@
 ### Hi there 👋
 I am Mayank Khandelwal
 
-[![](https://komarev.com/ghpvc/?username=mayank187) ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=ff69b4)
+![](https://komarev.com/ghpvc/?username=mayank187) ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=ff69b4)
 ![Visual Studio](https://img.shields.io/badge/IDE-Visual%20Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=ff69b4)
-]
 
 Data science enthusiast.
 
