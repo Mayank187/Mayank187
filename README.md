@@ -1,6 +1,8 @@
 ### Hi there 👋
 I am Mayank Khandelwal
 
+[![](https://komarev.com/ghpvc/?username=mayank187) ![GitHub contributors](https://img.shields.io/github/contributors/mayank187)](https://github.com/mayank187)]
+
 Data science enthusiast.
 
 - 🔭 I’m currently working on some end to end data science project 
