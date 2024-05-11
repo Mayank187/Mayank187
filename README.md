@@ -26,7 +26,7 @@ I am Mayank Khandelwal.
 
 
 <a href="https://github.com/Mayank187/Mayank187">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mayank187&repo=poseEstimation&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mayank187&repo=RestaurantNameGenerator&theme=buefy" />
 </a>
 <a href="https://github.com/Mayank187/Mayank187.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mayank187&repo=countingFingers&theme=buefy" />
