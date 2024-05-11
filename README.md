@@ -36,5 +36,5 @@ I am Mayank Khandelwal.
 <br />
 
 
-## [Kaggle Profile](https://kaggle.com/mayank2896)
+## [Kaggle Profile](https://www.kaggle.com/mayank2896)
 ![](https://kaggle-card.chienhsiang-hung.eu.org/api/svg?mayank2896)
